@@ -11,6 +11,7 @@ function About() {
                 className="object-contain md:object-scale-down"
                 width={500}
                 height={500}
+                alt="team"
               />
             </div>
             <div className="flex-1">

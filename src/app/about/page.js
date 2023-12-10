@@ -42,7 +42,7 @@ function AboutUs() {
             <div className="box-border h-50 md:h-80 w-45 mb-5 md:mb-0 p-4 bg-slate-300 rounded-lg">
               <p className="font-bold text-3xl mb-2 md:mb-24">$8.9 billion</p>
               <p className="font-bold pt-1 md:pt-12 mb-1">
-                We’re proud that our customers have made over $8 billion in
+                We are proud that our customers have made over $8 billion in
                 total revenue.
               </p>
               <p>
@@ -70,8 +70,8 @@ function AboutUs() {
       <div className="mt-20">
         <h1 className="text-2xl sm:text-4xl font-bold">Our values</h1>
         <p className="text-lg mt-5">
-          We’ll also suggest a few of our own ideas we love coming up with fresh
-          solutions that really make the technology work hard.
+          We will also suggest a few of our own ideas we love coming up with
+          fresh solutions that really make the technology work hard.
         </p>
       </div>
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-20 mb-10">
@@ -124,7 +124,7 @@ function AboutUs() {
           <p className="font-bold">Enjoy downtime</p>
           <p>
             Embracing and savoring downtime is an essential aspect of
-            maintaining a healthy and balanced lifestyle. Whether it's a moment
+            maintaining a healthy and balanced lifestyle. Whether its a moment
             of solitude, a leisurely activity, or simply relaxing, downtime
             provides a crucial opportunity to recharge and rejuvenate.
           </p>

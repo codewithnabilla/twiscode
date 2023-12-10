@@ -25,6 +25,7 @@ function Hero() {
             className="object-contain md:object-scale-down"
             width={500}
             height={500}
+            alt="tech"
           />
         </div>
       </div>
