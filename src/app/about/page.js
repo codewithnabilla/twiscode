@@ -21,6 +21,7 @@ function AboutUs() {
             className="object-contain md:object-scale-down rounded-md"
             width={500}
             height={500}
+            alt="team"
           />
         </div>
       </div>

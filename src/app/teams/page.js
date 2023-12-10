@@ -35,8 +35,8 @@ function Teams() {
       <h1 className="text-3xl font-bold text-center mt-10">Meet Our Teams</h1>
       <div className="grid grid-rows-9 md:grid-cols-3 gap-4 justify-center mt-10">
         {teamMembers.map((member, index) => (
-          <div className=" bg-gray-100 text-center rounded-lg p-4">
-            <div key={index}>
+          <div key={index}>
+            <div className=" bg-gray-100 text-center rounded-lg p-4">
               <img
                 src={member.picture.large}
                 alt={`${member.name.first} ${member.name.last}`}

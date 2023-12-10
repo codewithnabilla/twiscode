@@ -12,7 +12,7 @@ function Testimonial() {
         <div className="grid grid-rows md:grid-cols-2 gap-4">
           <div className="p-10 bg-gray-200 rounded-md">
             <p className="text-center md:text-left">
-              “The leadership of this organization is impressive. I can't say
+              “The leadership of this organization is impressive. I can not say
               enough about how aligned they have been achieving our business.”
             </p>
             <div className="flex items-center mt-8">
@@ -22,6 +22,7 @@ function Testimonial() {
                   className="rounded-full"
                   width={50}
                   height={50}
+                  alt="user"
                 />
               </div>
               <div>
@@ -42,6 +43,7 @@ function Testimonial() {
                   className="rounded-full"
                   width={50}
                   height={50}
+                  alt="user"
                 />
               </div>
               <div>
@@ -62,6 +64,7 @@ function Testimonial() {
                   className="rounded-full"
                   width={50}
                   height={50}
+                  alt="user"
                 />
               </div>
               <div>
@@ -82,6 +85,7 @@ function Testimonial() {
                   className="rounded-full"
                   width={50}
                   height={50}
+                  alt="user"
                 />
               </div>
               <div>
